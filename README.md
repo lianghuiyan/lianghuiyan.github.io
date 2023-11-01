@@ -1,5 +1,2 @@
-# lianghuiyan.github.io
-hello
-I am lianghuiyan
-Because I don't know how to write code for designing pages yet
-So this blog can only grow like this
+# 梁慧妍的博客
+<table><tr><td bgcolor=5C8A80><font color=white>博客尚未装修，因为我还没学到这里</font></td></tr></table>
