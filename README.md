@@ -1,3 +1,5 @@
-<div align="center">
-	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+# [一只飞鱼的博客](https://alembic.darn.es/)
+
+
+## ⚗欢迎来到我的博客！这个博客还是处于毛胚房状态，因为我还没有学到这里。
+
