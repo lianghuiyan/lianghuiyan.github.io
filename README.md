@@ -25,5 +25,5 @@ ID：一叶孤舟衰莲叶
   
   
 感谢阅读我的博客！如果你有任何问题或建议，请随时联系我!  
-:love_letter:邮箱：lianghuiyan02@qq.com  
-祝你天天开心！  
+邮箱：lianghuiyan02@qq.com  
+💖 祝你天天开心！  
